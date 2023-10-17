@@ -12,9 +12,9 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 # Hi I am Ausha 
 
-#Welcome to the party.
 
-## Header 2
+
+##Welcome to the party.
 
 > This is a blockquote following a header.
 >
