@@ -2,9 +2,9 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+I can be  **type-A**, _relaxed_, but always, ~~sarcastic~~.
 
-[Link to another page](./another-page.html).
+[Link to another page](./https://dot.cards/Ausha?a=user%2Ffhlfsjgmrzbjpiwlf187fhci2%2Fc%2Fbl).
 
 There should be whitespace between paragraphs.
 
