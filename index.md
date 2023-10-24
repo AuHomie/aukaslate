@@ -4,7 +4,16 @@ layout: default
 
 I can be  **type-A**, _relaxed_, but always, ~~sarcastic~~.
 
-[Link to another page](./https://dot.cards/Ausha?a=user%2Ffhlfsjgmrzbjpiwlf187fhci2%2Fc%2Fbl).
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1>HTML Links</h1>
+
+<p><a href="https://dot.cards/Ausha?a=user%2Ffhlfsjgmrzbjpiwlf187fhci2%2Fc%2Fbl/">A few of my work links!</a></p>
+
+</body>
+</html>
 
 There should be whitespace between paragraphs.
 
