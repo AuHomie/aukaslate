@@ -2,6 +2,11 @@
 layout: default
 ---
 
+# Hi I am Ausha
+
+#Welcome to the party.
+
+
 I can be  **type-A**, _relaxed_, but always, ~~sarcastic?~~ no never..
 
 <! Here is the long story. I’ll post the short one in a table. I am currently a student at weber state university studying computer science. Before I decided to come back to school, I had a few interesting jobs that lead me here. Including but not limited to, bartending, babysitting, (ya know the classics), I worked at an Albertsons as a bagger and eventually a non-foods employee. For the love of all things, please don’t bounce the big rubber balls! I worked and managed a summer sell call floor. (Once again babysitting.) I ended up going to school for phlebotomy, landing a job at the same hospital I did an internship at. I worked there for 10 years. I learned and was trained in many things. The titles I held as the following: phlebotomist, IV tech, lab assistant, admitting, courier and emergency on call courier. I was offered many times lead possessions within the lab department. I declined the offers because I did not have long term plans within the hospital. 
@@ -31,7 +36,6 @@ There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# Hi I am Ausha 
 
 
 
