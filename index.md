@@ -74,14 +74,14 @@ end
 2.  This is an ordered list following a header.
 3.  This is an ordered list following a header.
 
-###### Header 6
+###### Here is the chart of work history.
 
 | Job/ schoo   | Job Title or cert/degree | Time spent |
 |:-------------|:------------------|:------|
-| random kid jobs | babysitting cleaning | Age 11-16  |
-| Fast food, Big 5| main register   | 3 Wks, 1 Year|
-| Call Center summer sales   | mangement | 2 Years   |
-| Hospital    | Phleb, IV tech, ect. | 10 Years |
+| fast food, big 5, call floor | Main Register, Mangement | 4 Years|
+| Hospital| Phleb IV Tech, ect. | 2009-2019|
+| Master Esthetician | student | 2015-2016  |
+| Business Owner: Miss.Ausha | Piercing & Skincare | 2016 - Present |
 
 ### There's a horizontal rule below this.
 
