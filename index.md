@@ -57,15 +57,65 @@ During my time at the hospital, I attended Master Esthetician school. I finished
 
 ###### Here is the chart of work history.
 
-| Job/ schoo   | Job Title or cert/degree | Time spent |
-|:-------------|:------------------|:------|
-| fast food, big 5, call floor | Main Register, Mangement | 4 Years|
-| Hospital| Phleb IV Tech, ect. | 2009-2019|
-| Master Esthetician | student | 2015-2016  |
-| Business Owner: Miss.Ausha | Piercing & Skincare | 2016 - Present |
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
 
-### There's a horizontal rule below this.
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
 
-* * *
+tr:nth-child(even) {
+  background-color: #dddddd;
+}
+</style>
+</head>
+<body>
 
+<h2>HTML Table</h2>
+
+<table>
+  <tr>
+    <th>Job/School</th>
+    <th>Title/Cert</th>
+    <th>Year</th>
+  </tr>
+  <tr>
+    <td>Fastfood, Big5, Call floor</td>
+    <td>Register, Management</td>
+    <td>2005-2009</td>
+  </tr>
+  <tr>
+    <td>Hospital</td>
+    <td>Phlebotomist, IV Tech, ect.</td>
+    <td>2009,2019</td>
+  </tr>
+  <tr>
+    <td>Master Esthetician</td>
+    <td>Student</td>
+    <td>2015-2016</td>
+  </tr>
+  <tr>
+    <td>Miss.Ausha LLC</td>
+    <td>Owner Skincare / Piercings</td>
+    <td>2016- Present</td>
+  </tr>
+  <tr>
+    <td>Weber State University</td>
+    <td>Computer Science</td>
+    <td>2023- Present</td>
+  </tr>
+  
+</table>
+
+</body>
+</html>
 
