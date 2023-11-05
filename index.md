@@ -16,6 +16,7 @@ During my time at the hospital, I attended Master Esthetician school. I finished
 <html>
 a few fun photos. one of my dogs Boston living her best life. Young Ausha compeating in the NPC. 1st in novis 2nd in class.
 <body>
+
 <!DOCTYPE html>
 <html>
 <body>
@@ -25,6 +26,7 @@ a few fun photos. one of my dogs Boston living her best life. Young Ausha compea
 
 </body>
 </html>
+
 <!DOCTYPE html>
 <html>
 <body>
@@ -46,10 +48,6 @@ a few fun photos. one of my dogs Boston living her best life. Young Ausha compea
 
 </body>
 </html>
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
 
 
