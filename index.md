@@ -27,7 +27,7 @@ I can be  **type-A**, _relaxed_, but always, ~~sarcastic?~~ no never..
 
 <h2>I use to compeat in the NPC. I won 1st in novice ans 2nd in my class.</h2>
 
-<img src="npcaushahomer.jpg" alt="tooleanblackladypurplebikini">
+<img src="npcaushahomer.jpg" alt="blackladypurplebikiniverylean">
 
 </body>
 </html>
