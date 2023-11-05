@@ -15,6 +15,8 @@ I can be  **type-A**, _relaxed_, but always, ~~sarcastic?~~ no never..
 <body>
 
 <h2>My dog, Boston living her best life.</h2>
+<html>
+<body>
 
 <img src="bostonranch.jpg" alt="dogrunningfield">
 
@@ -26,6 +28,9 @@ I can be  **type-A**, _relaxed_, but always, ~~sarcastic?~~ no never..
 <body>
 
 <h2>I use to compeat in the NPC. I won 1st in novice ans 2nd in my class.</h2>
+
+<html>
+<body>
 
 <img src="npcaushahomer.jpg" alt="blackladypurplebikiniverylean">
 
