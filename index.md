@@ -9,6 +9,19 @@ layout: default
 
 I can be  **type-A**, _relaxed_, but always, ~~sarcastic?~~ no never..
 
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>A few random life photos.</h2>
+
+<p>My dog, Boston living her best life.:</p>
+
+<img src="bostonranch.jpg" alt="bdogrunningfield" 
+
+</body>
+</html>
+
 
 
 <html>
@@ -29,8 +42,8 @@ I can be  **type-A**, _relaxed_, but always, ~~sarcastic?~~ no never..
 
 <h2>I use to compeat in the NPC. I won 1st in novice ans 2nd in my class.</h2>
 
-<html>
-<body>
+</html>
+</body>
 
 <img src="npcaushahomer.jpg" alt="blackladypurplebikiniverylean">
 
@@ -48,7 +61,7 @@ I can be  **type-A**, _relaxed_, but always, ~~sarcastic?~~ no never..
 
 
 
-##Welcome to the party.
+Welcome to the party.
 
  Here is the long story. I’ll post the short one in a table. I am currently a student at weber state university studying computer science. Before I decided to come back to school, I had a few interesting jobs that lead me here. Including but not limited to, bartending, babysitting, (ya know the classics), I worked at an Albertsons as a bagger and eventually a non-foods employee. For the love of all things, please don’t bounce the big rubber balls! I worked and managed a summer sell call floor. (Once again babysitting.) I ended up going to school for phlebotomy, landing a job at the same hospital I did an internship at. I worked there for 10 years. I learned and was trained in many things. The titles I held as the following: phlebotomist, IV tech, lab assistant, admitting, courier and emergency on call courier. I was offered many times lead possessions within the lab department. I declined the offers because I did not have long term plans within the hospital. 
 
