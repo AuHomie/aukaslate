@@ -7,20 +7,7 @@ layout: default
 #Welcome to the party.
 
 
-I can be  **type-A**, _relaxed_, but always, ~~sarcastic?~~ no never..
-
-<!DOCTYPE html>
-<html>
-<body>
-
-<h2>A few random life photos.</h2>
-
-<p>My dog, Boston living her best life.:</p>
-
-<img src="bostonranch.jpg" alt="bdogrunningfield" 
-
-</body>
-</html>
+I can be  **type-A**, _relaxed_, but always ~~sarcastic?~~ no never..
 
 
 
