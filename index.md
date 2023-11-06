@@ -18,7 +18,7 @@ I can be  **type-A**, _relaxed_, but always ~~sarcastic?~~ no never..
 <html>
 <body>
 
-<img src="bostonranch.jpeg" alt="dogrunningfield">
+<img src="bostonranch" alt="dogrunningfield">
 
 </body>
 </html>
@@ -32,7 +32,7 @@ I can be  **type-A**, _relaxed_, but always ~~sarcastic?~~ no never..
 
 </body>
 
-<img src="npcaushahomer.jpeg" alt="blackfemalepurplebikiniverylean">
+<img src="![Alt text](image-1.png)" alt="blackfemalepurplebikiniverylean">
 
 
 </html>
@@ -126,3 +126,6 @@ tr:nth-child(even) {
 </body>
 </html>
 
+
+
+[def]: b
