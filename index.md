@@ -32,7 +32,7 @@ I can be  **type-A**, _relaxed_, but always ~~sarcastic?~~ no never..
 
 </body>
 
-<img src="![Alt text](npcaushahomer-1.jpeg)" alt=ladyblackbodybuliding
+<img src="npcaushahomer.jpeg" alt=ladyblackbodybuliding
 
 
 </html>
