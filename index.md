@@ -18,7 +18,7 @@ I can be  **type-A**, _relaxed_, but always ~~sarcastic?~~ no never..
 <html>
 <body>
 
-<img src="![Alt text](bostonranch-1.jpeg)" alt="dogrunningfield">
+<img src="bostonranch.jpeg" alt=Dogrunning
 
 </body>
 </html>
@@ -32,7 +32,7 @@ I can be  **type-A**, _relaxed_, but always ~~sarcastic?~~ no never..
 
 </body>
 
-<img src="![Alt text](image-1.png)" alt="blackfemalepurplebikiniverylean">
+<img src="npcaushahomer.JPEG" alt=femailblackbodybulidingbikini
 
 
 </html>
