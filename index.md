@@ -18,7 +18,7 @@ I can be  **type-A**, _relaxed_, but always ~~sarcastic?~~ no never..
 <html>
 <body>
 
-<img src="bostonranch.jpeg" alt=Dogrunning
+<img src="assets/images/bostonranch.jpeg" alt="dog running" >
 
 </body>
 </html>
