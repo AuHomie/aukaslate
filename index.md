@@ -27,7 +27,7 @@ I can be  **type-A**, _relaxed_, but always ~~sarcastic?~~ no never..
 <html>
 <body>
 
-<h2>I use to compeat in the NPC. I won 1st in novice ans 2nd in my class.</h2>
+<h2>I use to compete in the NPC. I won 1st in novice & 2nd in my hight class.</h2>
 
 
 </body>
